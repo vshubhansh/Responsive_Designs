@@ -1,0 +1,5 @@
+Responsive image tutorial
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/images
+
+Reponsive image Udacity
+https://www.udacity.com/course/responsive-images--ud882
